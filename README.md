@@ -31,13 +31,13 @@ git clone https://github.com/lml1848687/Scorpio.git
 - 安装依赖
 
 ```sh
-npm install / yarn add
+npm install
 ```
 
 - 运行
 
 ```sh
-npm run serve / yarn serve
+npm run serve
 ```
 
 ## 联系方式
