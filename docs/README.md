@@ -36,7 +36,7 @@ Scropio UI 是一个不太一样的 UI 框架（试验品）。
 - 下载仓库代码
 
 ```shell
-git clone https://github.com/lml1848687/Scorpio.git
+git clone https://github.com/liujian891010/Scorpio.git
 ```
 
 - 安装依赖
