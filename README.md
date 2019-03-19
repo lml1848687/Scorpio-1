@@ -1,6 +1,6 @@
 # Scorpio - 一个初级的 Vue UI 组件
 
-[![Build Status](https://travis-ci.org/lml1848687/Scorpio.svg?branch=master)](https://travis-ci.org/lml1848687/VUE-Learning)
+
 
 ## 介绍
 
@@ -25,7 +25,7 @@
 - 下载仓库代码
 
 ```sh
-git clone https://github.com/lml1848687/Scorpio.git
+git clone https://github.com/liujian891010/Scorpio.git
 ```
 
 - 安装依赖
