@@ -43,8 +43,8 @@ npm run serve / yarn serve
 ## 联系方式
 
 - 微信:Lambert1129
-- 官网:[点击此处跳转](https://lml1848687.github.io/Scorpio/)
-- Github:[点击此处跳转](https://github.com/lml1848687/Scorpio)
+- 官网:[点击此处跳转](https://liujian891010.github.io/Scorpio/)
+- Github:[点击此处跳转](https://github.com/liujian891010/Scorpio)
 
 ## License
 
