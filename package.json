@@ -31,7 +31,8 @@
     "sinon-chai": "^3.3.0",
     "vue-server-renderer": "^2.6.6",
     "vue-template-compiler": "^2.5.21",
-    "vuepress": "^0.14.9"
+    "vuepress": "^0.14.9",
+    "webpack-dev-middleware": "^3.6.0"
   },
   "postcss": {
     "plugins": {
@@ -45,10 +46,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lml1848687/Scorpio"
+    "url": "https://github.com/liujian891010/Scorpio"
   },
   "bugs": {
-    "url": "https://github.com/lml1848687/Scorpio/issues"
+    "url": "https://github.com/liujian891010/Scorpio/issues"
   },
-  "homepage": "https://lml1848687.github.io/Scorpio/"
+  "homepage": "https://liujian891010.github.io/Scorpio/"
 }
