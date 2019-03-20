@@ -1,4 +1,5 @@
-# Scropio UI [![Build Status](https://travis-ci.org/liujian891010/Scorpio.svg?branch=master)](https://travis-ci.org/liujian891010/Scorpio)
+# Scropio UI 
+[![Build Status](https://travis-ci.org/liujian891010/Scorpio.svg?branch=master)](https://travis-ci.org/liujian891010/Scorpio)
 
 Scropio UI 是一个不太一样的 UI 框架（试验品）。
 
