@@ -1,4 +1,4 @@
-# Scorpio - 一个初级的 Vue UI 组件
+# Scorpio - 一个初级的 Vue UI 组件  [之前的仓库地址](https://github.com/lml1848687/Scorpio.git)
 
 [![Build Status](https://travis-ci.org/liujian891010/Scorpio.svg?branch=master)](https://travis-ci.org/liujian891010/Scorpio)
 
